@@ -1,5 +1,37 @@
 pragma solidity ^0.4.23;
 
+/*
+                                                                                       (   )
+               $$$$$$$$\ $$$$$$$\   $$$$$$\  $$\   $$\                               (    )
+               \__$$  __|$$  __$$\ $$  __$$\ $$$\  $$ |                                (    )
+                  $$ |   $$ |  $$ |$$ /  $$ |$$$$\ $$ |                              (    )
+                  $$ |   $$$$$$$  |$$ |  $$ |$$ $$\$$ |                                )  )
+                  $$ |   $$  __$$< $$ |  $$ |$$ \$$$$ |                                (  (
+                  $$ |   $$ |  $$ |$$ |  $$ |$$ |\$$$ |                                (_)
+                  $$ |   $$ |  $$ | $$$$$$  |$$ | \$$ |                        ________[_]________
+                  \__|   \__|  \__| \______/ \__|  \__|                       /\        ______    \
+                                                                             //_\       \    /\    \
+$$\    $$\ $$$$$$\ $$\       $$\        $$$$$$\   $$$$$$\  $$$$$$$$\        //___\       \__/  \    \
+$$ |   $$ |\_$$  _|$$ |      $$ |      $$  __$$\ $$  __$$\ $$  _____|      //_____\       \ |[]|     \
+$$ |   $$ |  $$ |  $$ |      $$ |      $$ /  $$ |$$ /  \__|$$ |           //_______\       \|__|      \
+\$$\  $$  |  $$ |  $$ |      $$ |      $$$$$$$$ |$$ |$$$$\ $$$$$\        /XXXXXXXXXX\                  \
+ \$$\$$  /   $$ |  $$ |      $$ |      $$  __$$ |$$ |\_$$ |$$  __|      /_I_II  I__I_\__________________\
+  \$$$  /    $$ |  $$ |      $$ |      $$ |  $$ |$$ |  $$ |$$ |           I_I|  I__I_____[]_|_[]_____I
+   \$  /   $$$$$$\ $$$$$$$$\ $$$$$$$$\ $$ |  $$ |\$$$$$$  |$$$$$$$$\      I II__I  I     XXXXXXX     I
+    \_/    \______|\________|\________|\__|  \__| \______/ \________|  ~~~~~"   "~~~~~~~~~~~~~~~~~~~~~~~~
+                                                                           "     "
+
+Tron Village - economic strategy based on Tron Network blockchain
+
+Web                   -  https://tronvillage.com
+Discord               -  https://discordapp.com/invite/U9rsj4V
+Telegram chat         -  https://t.me/TronVillage
+Telegram channel      -  https://t.me/TronVillageInfo
+Bitcointalk[EN]       -  https://bitcointalk.org/index.php?topic=5092491.0
+Bitcointalk[RU]       -  https://bitcointalk.org/index.php?topic=5092478.0
+
+*/
+
 library SafeMath {
 
     function mul(uint256 a, uint256 b) internal pure returns (uint256) {
