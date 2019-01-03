@@ -1,7 +1,7 @@
 # Tron Village Smart Contract
 
 Home page: [tronvillage.com](https://tronvillage.com/)  
-Play page:  [tronvillage.com/en/play](tronvillage.com/en/play.html)
+Play page:  [tronvillage.com/en/play](https://tronvillage.com/en/play.html)
 
 ## Details
 - Address: [TCPFHFk9VHjTVVdzK4qFTTUmAyv9VwbJmr](https://tronscan.org/#/contract/TCPFHFk9VHjTVVdzK4qFTTUmAyv9VwbJmr/code)
