@@ -4,7 +4,7 @@ Home page: [tronvillage.com](https://tronvillage.com/)
 Play page:  [tronvillage.com/en/play](tronvillage.com/en/play.html)
 
 ## Details
-- Address: [TCPFHFk9VHjTVVdzK4qFTTUmAyv9VwbJmr](https://tronscan.org/#/address/TCPFHFk9VHjTVVdzK4qFTTUmAyv9VwbJmr)
+- Address: [TCPFHFk9VHjTVVdzK4qFTTUmAyv9VwbJmr](https://tronscan.org/#/contract/TCPFHFk9VHjTVVdzK4qFTTUmAyv9VwbJmr/code)
 - Solidity compiler version: v0.4.23+commit.124ca40d
 - Direct interaction with the contract via TronLink: [interaction](https://tronsmartcontract.space/#/interact/TCPFHFk9VHjTVVdzK4qFTTUmAyv9VwbJmr)
 
