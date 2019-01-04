@@ -167,7 +167,7 @@ contract TronVillage {
             if (contractBalance > 0) {
                 uint payout = _amount > contractBalance ? contractBalance : _amount;
                 totalPayout = totalPayout.add(payout);
-                msg.sender.transfer(payout);
+                msg.sender.transfer(payout); // msg.sender == _receiver
             }
         }
     }
